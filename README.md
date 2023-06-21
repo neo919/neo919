@@ -2,6 +2,8 @@
 <h3 align="center">A training backend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, SQL and Java.**
+- 🔭 Build projects in : https:/freecodecamp.org/
+- 📖 Studying Software Enginering
 
 <h3 align="left">Connect with me: caioh.maiab@gmail.com</h3>
 <p align="left">
